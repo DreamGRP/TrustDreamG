@@ -1,4 +1,4 @@
-- 👋 Salut, Noi suntem Comunitatea DreamG
+- 👋 Salut, Noi suntem Comunitatea TrustRP
 - 👀 Suntem interesati sa va oferim o atmosfera buna
 - 🌱 Momentan invatam Lua
 - 💞️ Colaboram cu oricine
